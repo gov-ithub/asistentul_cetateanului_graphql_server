@@ -31,6 +31,7 @@ app.use(
   })
 );
 
-app.listen(80, function(err) {
-  console.log('GraphQL Server running on localhost:80');  
+const port = process.env.PORT || 3000;
+app.listen(port, function(err) {
+  console.log('GraphQL Server running on localhost:' + port);  
 });
