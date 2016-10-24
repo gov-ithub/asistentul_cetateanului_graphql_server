@@ -31,6 +31,6 @@ app.use(
   })
 );
 
-app.listen(4000, function(err) {
-  console.log('GraphQL Server running on localhost:4000');  
+app.listen(80, function(err) {
+  console.log('GraphQL Server running on localhost:80');  
 });
