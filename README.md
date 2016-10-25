@@ -24,7 +24,7 @@ Dacă vrei să contribui - ești binevenit(ă) - but we don't have cookies (yet)
 
 ## Cum poti intra in contact cu echipa?
 - Email: claudiu.ceia@ithub.gov.ro
-- [Slack](https://govithub.slack.com/messages/asist_cetatean/details/) 
+- [Slack](https://govithub.slack.com/messages/asist_cetatean/details/). Pentru invite intrați pe http://govitslack.herokuapp.com/ 
 
 Mai multe detalii în curând! 
 
